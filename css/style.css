@@ -1,0 +1,17 @@
+.bz-light-red {
+    background-color: hsla(0, 100%, 50%, 0.562);
+}
+
+.rating {
+    width: 20px;
+}
+
+.foot>ul {
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    padding-left: 0;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
